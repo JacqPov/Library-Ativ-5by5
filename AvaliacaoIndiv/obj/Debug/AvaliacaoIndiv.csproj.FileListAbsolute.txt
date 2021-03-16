@@ -1,0 +1,7 @@
+C:\Users\Jacqueline\source\repos\AvaliacaoIndiv\AvaliacaoIndiv\bin\Debug\AvaliacaoIndiv.exe.config
+C:\Users\Jacqueline\source\repos\AvaliacaoIndiv\AvaliacaoIndiv\bin\Debug\AvaliacaoIndiv.exe
+C:\Users\Jacqueline\source\repos\AvaliacaoIndiv\AvaliacaoIndiv\bin\Debug\AvaliacaoIndiv.pdb
+C:\Users\Jacqueline\source\repos\AvaliacaoIndiv\AvaliacaoIndiv\obj\Debug\AvaliacaoIndiv.csprojAssemblyReference.cache
+C:\Users\Jacqueline\source\repos\AvaliacaoIndiv\AvaliacaoIndiv\obj\Debug\AvaliacaoIndiv.csproj.CoreCompileInputs.cache
+C:\Users\Jacqueline\source\repos\AvaliacaoIndiv\AvaliacaoIndiv\obj\Debug\AvaliacaoIndiv.exe
+C:\Users\Jacqueline\source\repos\AvaliacaoIndiv\AvaliacaoIndiv\obj\Debug\AvaliacaoIndiv.pdb
